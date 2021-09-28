@@ -1,0 +1,38 @@
+PODS:
+  - FittedSheets (2.4.0)
+  - GCDWebServer (3.5.4):
+    - GCDWebServer/Core (= 3.5.4)
+  - GCDWebServer/Core (3.5.4)
+  - Kanna (5.2.4)
+  - SearchTextField (1.2.4)
+  - SwiftyJSON (5.0.1)
+  - Tiercel (3.2.1)
+
+DEPENDENCIES:
+  - FittedSheets
+  - GCDWebServer
+  - Kanna (~> 5.2.2)
+  - SearchTextField
+  - SwiftyJSON
+  - Tiercel
+
+SPEC REPOS:
+  trunk:
+    - FittedSheets
+    - GCDWebServer
+    - Kanna
+    - SearchTextField
+    - SwiftyJSON
+    - Tiercel
+
+SPEC CHECKSUMS:
+  FittedSheets: 470a7740a083156d711ab6ccd37d1d539005e6aa
+  GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
+  Kanna: b9d00d7c11428308c7f95e1f1f84b8205f567a8f
+  SearchTextField: 40dc3cc57def5a211f263cac263622c163bbc25a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Tiercel: 94b817f76bcdb7c86290b3dbd945048e94c6c153
+
+PODFILE CHECKSUM: 6925c23f551a8072927a1455224ec03ed872638a
+
+COCOAPODS: 1.10.1
